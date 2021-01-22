@@ -1,1 +1,2 @@
 # ReadMe-Architect
+This project is designed to take the user's responses, to a series of questions, and generate a README.md file based on those responses. It allows the user to quickly generate a professional README file, in a fraction of the time. To see the code for this project, please visit my Github respository at https://github.com/melissa-stott/ReadMe-Architect.
